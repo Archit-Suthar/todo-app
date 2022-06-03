@@ -1,5 +1,7 @@
 # todo-app
 
+- Full Stack todo-app
+
 Built Using :
 - React
 - TailwindCSS
