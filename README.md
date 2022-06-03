@@ -2,7 +2,7 @@
 
 packages used : 
 - tailwind : "^4.0.0",
-- 
+
 # ScreenShots
 ![Screenshot (130)](https://user-images.githubusercontent.com/63463921/167530417-fcb1e2eb-8eb5-4504-8b18-f7d824f6ba54.png)
 - It is responsive : 
